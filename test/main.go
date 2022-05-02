@@ -6,4 +6,5 @@ func main() {
 	fmt.Println("golang commit success")
 	fmt.Println("golang commit success123")
 	fmt.Println("hot-fix")
+	fmt.Println("hot-fix test")
 }
