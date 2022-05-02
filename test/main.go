@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("hot-fix")
 	fmt.Println("master test")
 	fmt.Println("hot-fix test")
+	fmt.Println("push test")
 }
